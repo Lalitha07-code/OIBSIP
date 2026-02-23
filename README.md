@@ -1,5 +1,5 @@
 # PROJECT 1 LEVEL1 # 
-📊 Retail Sales Data Analysis (EDA)
+# 📊 Retail Sales Data Analysis (EDA)#
 
 This project was completed as part of my Data Analytics Internship at OASIS Infobyte.
 
