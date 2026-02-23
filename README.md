@@ -92,3 +92,65 @@ Identified important features influencing price
 
 Lalitha P
 B.Tech AI & DS | Aspiring Data Analyst
+
+# PROJECT 2 LEVEL 1 #
+# 📊 Marketing Analytics – Customer Segmentation #
+
+This project focuses on analyzing customer data and performing customer segmentation to identify distinct customer groups based on purchasing behavior and demographics.
+
+📌 Project Objective
+
+To apply data analysis and clustering techniques to segment customers into meaningful groups that help businesses improve marketing strategies and decision-making.
+
+🛠 Tools & Technologies Used
+
+Python
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Seaborn
+
+Scikit-learn
+
+🔍 Project Workflow
+
+Data loading and preprocessing
+
+Handling missing values
+
+Exploratory Data Analysis (EDA)
+
+Feature selection and scaling
+
+Applying clustering algorithm (e.g., K-Means)
+
+Visualization of customer segments
+
+📈 Key Insights
+
+Identified distinct customer groups based on income and spending patterns
+
+Discovered high-value customer segments
+
+Analyzed behavioral differences between segments
+
+Provided insights to improve targeted marketing campaigns
+
+💡 Business Impact
+
+Customer segmentation helps businesses:
+
+Personalize marketing strategies
+
+Improve customer retention
+
+Increase sales through targeted campaigns
+
+👩‍💻 Author
+
+Lalitha P
+B.Tech AI & DS | Aspiring Data Analyst
