@@ -154,7 +154,7 @@ Increase sales through targeted campaigns
 
 Lalitha P
 B.Tech AI & DS | Aspiring Data Analyst
-# project 2 level 2 #
+# PROJECT 2 LEVEL 2 #
 
 # Wine Quality Prediction – Level 2
 
