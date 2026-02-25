@@ -154,3 +154,107 @@ Increase sales through targeted campaigns
 
 Lalitha P
 B.Tech AI & DS | Aspiring Data Analyst
+# project 2 level 2 #
+
+# Wine Quality Prediction – Level 2
+
+This project was completed as part of my Data Analytics / Machine Learning Internship – Level 2.
+
+📌 Project Objective
+
+The goal of this project is to predict the quality of wine based on its chemical properties using Machine Learning classification models.
+
+The dataset used is WineQT, which contains various physicochemical features such as acidity, density, alcohol content, and more.
+
+📊 Dataset Description
+
+The dataset includes chemical attributes such as:
+
+Fixed Acidity
+
+Volatile Acidity
+
+Citric Acid
+
+Residual Sugar
+
+Chlorides
+
+Free Sulfur Dioxide
+
+Total Sulfur Dioxide
+
+Density
+
+pH
+
+Sulphates
+
+Alcohol
+
+Quality (Target Variable)
+
+Target Variable:
+Quality Score (wine rating)
+
+🛠 Tools & Technologies Used
+
+Python
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Seaborn
+
+Scikit-learn
+
+🔍 Project Workflow
+
+1️⃣ Data Loading and Cleaning
+2️⃣ Exploratory Data Analysis (EDA)
+3️⃣ Feature Selection
+4️⃣ Data Splitting (Train-Test Split)
+5️⃣ Feature Scaling
+6️⃣ Model Building:
+
+Random Forest Classifier
+
+Stochastic Gradient Descent (SGD)
+
+Support Vector Classifier (SVC)
+7️⃣ Model Evaluation (Accuracy, Confusion Matrix)
+8️⃣ Feature Importance Analysis
+
+📈 Results
+
+Compared multiple classification models
+
+Evaluated performance using accuracy score
+
+Identified important chemical features influencing wine quality
+
+Selected best-performing model for prediction
+
+💡 Key Insights
+
+Alcohol content significantly influences wine quality
+
+Certain acidity levels impact classification performance
+
+Random Forest performed better compared to other models (based on accuracy)
+
+📌 Conclusion
+
+This project demonstrates the practical application of machine learning classification techniques for quality prediction in the wine industry.
+
+It highlights how data-driven models can assist in quality assessment and decision-making.
+
+👩‍💻 Author
+
+Lalitha P
+B.Tech AI & DS
+Aspiring Data Analyst | Machine Learning Enthusiast
+
