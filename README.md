@@ -341,7 +341,7 @@ Aspiring Data Analyst
 
  # Credit Card Fraud Detection
 
-# PROJECT 3 – LEVEL 3
+# PROJECT 3 – LEVEL 2
 
 This project was completed as part of my Data Analytics / Machine Learning Internship – Level 3.
 
