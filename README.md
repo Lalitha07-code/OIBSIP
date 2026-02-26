@@ -430,3 +430,42 @@ By properly handling imbalanced data and evaluating appropriate performance metr
 Lalitha P
 B.Tech AI & DS
 Aspiring Data Analyst | Machine Learning Enthusiast
+# 📱 Unveiling the Android App Market
+## Analyzing Google Play Store Data
+
+### 📌 Project Overview
+This project analyzes Google Play Store data to understand Android app market trends. It focuses on cleaning raw data, exploring categories, analyzing ratings and installs, and visualizing key insights.
+
+### 🎯 Objectives
+- Clean and preprocess the dataset
+- Explore app distribution across categories
+- Analyze ratings, installs, size, and pricing
+- Perform basic sentiment analysis on user reviews
+- Generate meaningful visualizations
+
+### 🛠 Tools & Technologies
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- TextBlob
+
+### 📊 Key Analysis
+- Removed duplicates and handled missing values
+- Converted data types (Installs, Price, Reviews, Size)
+- Category-wise distribution analysis
+- Ratings distribution analysis
+- Free vs Paid app comparison
+- Correlation heatmap visualization
+- Basic sentiment classification (Positive/Negative/Neutral)
+
+### 🔍 Key Insights
+- Majority of apps are Free
+- Most ratings fall between 4.0 and 4.5
+- Categories like Family and Games dominate
+- Higher installs often lead to more reviews
+- Paid apps are a small percentage of total apps
+
+### 📈 Outcome
+This project strengthens skills in data cleaning, exploratory data analysis, visualization, and deriving insights from real-world datasets.
