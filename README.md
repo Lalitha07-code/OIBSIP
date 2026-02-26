@@ -258,3 +258,84 @@ Lalitha P
 B.Tech AI & DS
 Aspiring Data Analyst | Machine Learning Enthusiast
 
+# Data Cleaning Project – AB_NYC_2019 Dataset
+
+# PROJECT 3 – LEVEL 1
+
+This project was completed as part of my Data Analytics Internship (Level 1).
+
+📌 Project Objective
+
+The objective of this project is to clean and preprocess the AB_NYC_2019 (Airbnb New York 2019) dataset to ensure data accuracy, consistency, and reliability for further analysis.
+
+Data cleaning is a critical step in the data analysis process, as raw data often contains missing values, duplicates, and inconsistencies.
+
+📊 Dataset Description
+
+The dataset contains Airbnb listing information in New York City, including:
+
+Listing ID
+
+Host Name
+
+Neighbourhood Group
+
+Neighbourhood
+
+Room Type
+
+Price
+
+Minimum Nights
+
+Number of Reviews
+
+Last Review Date
+
+Reviews per Month
+
+Availability (365 days)
+
+🛠 Tools & Technologies Used
+
+Python
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Seaborn
+
+🔍 Data Cleaning Steps Performed
+
+1️⃣ Loaded and inspected the dataset
+2️⃣ Identified and handled missing values
+3️⃣ Filled missing values in reviews_per_month
+4️⃣ Converted last_review column to datetime format
+5️⃣ Removed duplicate records
+6️⃣ Standardized column names
+7️⃣ Detected and handled outliers in the price column
+8️⃣ Verified final cleaned dataset
+
+📈 Outcome
+
+Improved dataset quality
+
+Removed inconsistencies and missing data
+
+Prepared dataset for further analysis and visualization
+
+Ensured reliable and accurate data processing
+
+📌 Conclusion
+
+This project demonstrates practical data cleaning techniques and highlights the importance of preprocessing before performing analysis or building models.
+
+👩‍💻 Author
+
+Lalitha P
+B.Tech AI & DS
+Aspiring Data Analyst
+
