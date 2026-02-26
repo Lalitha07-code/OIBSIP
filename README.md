@@ -339,3 +339,94 @@ Lalitha P
 B.Tech AI & DS
 Aspiring Data Analyst
 
+ # Credit Card Fraud Detection
+
+# PROJECT 3 – LEVEL 3
+
+This project was completed as part of my Data Analytics / Machine Learning Internship – Level 3.
+
+📌 Project Objective
+
+The objective of this project is to detect fraudulent credit card transactions using Machine Learning techniques.
+
+Due to the increasing number of online financial transactions, fraud detection systems are essential to identify suspicious activities and prevent financial losses.
+
+📊 Dataset Description
+
+The dataset used is the Credit Card Fraud Detection dataset, which contains anonymized transaction data.
+
+Key features include:
+
+Time
+
+Amount
+
+V1 to V28 (anonymized numerical features)
+
+Class (Target Variable)
+
+Target Variable:
+
+0 → Normal Transaction
+
+1 → Fraud Transaction
+
+The dataset is highly imbalanced, as fraudulent transactions are very rare compared to normal transactions.
+
+🛠 Tools & Technologies Used
+
+Python
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Seaborn
+
+Scikit-learn
+
+🔍 Project Workflow
+
+1️⃣ Data Loading and Exploration
+2️⃣ Data Preprocessing
+3️⃣ Handling Imbalanced Data (Undersampling / SMOTE)
+4️⃣ Feature Scaling
+5️⃣ Train-Test Split
+6️⃣ Model Building:
+
+Logistic Regression
+
+Random Forest Classifier
+7️⃣ Model Evaluation using:
+
+Accuracy
+
+Precision
+
+Recall
+
+F1-Score
+
+Confusion Matrix
+
+📈 Key Findings
+
+The dataset is highly imbalanced, requiring special handling techniques.
+
+Recall is more important than accuracy in fraud detection tasks.
+
+Random Forest performed better compared to Logistic Regression in detecting fraudulent transactions.
+
+💡 Conclusion
+
+This project demonstrates how Machine Learning can be applied to detect fraudulent financial transactions effectively.
+
+By properly handling imbalanced data and evaluating appropriate performance metrics, a reliable fraud detection model can be developed to minimize financial risks.
+
+👩‍💻 Author
+
+Lalitha P
+B.Tech AI & DS
+Aspiring Data Analyst | Machine Learning Enthusiast
